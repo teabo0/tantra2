@@ -365,9 +365,9 @@
     "last_paths": {
       "gencad": "pcb.cad",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../Applications/KiCad/KiCad.app/Contents/Applications/",
       "specctra_dsn": "pcb.dsn",
-      "step": "",
+      "step": "pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
