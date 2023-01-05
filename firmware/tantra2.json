@@ -1,0 +1,14 @@
+{
+    "name": "tantra2",
+    "vendorId": "0x0C26",
+    "productId": "0x0001",
+    "lighting": "qmk_rgblight",
+    "matrix": { "rows": 2, "cols": 1 },
+    "layouts": {
+        "keymap": [
+          ["0,0"],
+          ["1,0"]
+        ]
+        
+    }
+}
